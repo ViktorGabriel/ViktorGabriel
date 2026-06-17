@@ -68,4 +68,21 @@ Para manter a organização visual, minhas ferramentas estão divididas por cama
 
 #### 🔐 3. QR Code & Password Generator Service
 > Aplicação voltada para utilitários de segurança, unindo criptografia avançada e geração de mídia dinâmica.
-* **Destaques de Engenharia:** Uso do
+* **Destaques de Engenharia:** Uso do módulo nativo `crypto` do Node para geração de senhas seguras (alta entropia), integrado a um pipeline de geração e buffer de imagens QR Code.
+* **Tecnologias:** `Node.js` | `TypeScript` | `Crypto API` | `QR Code Engine`
+* 📦 [Acessar Repositório](https://github.com/ViktorGabriel/qrcode-password-generator)
+
+---
+
+## 📊 Atividade & Rankings Coesos
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=radical&hide_border=true&langs_count=5" height="180px" alt="Linguagens mais usadas" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180px" alt="Estatísticas do GitHub" />
+</p>
+
+#### 📈 Gráfico de Contribuição Dinâmica
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktorGabriel&theme=react-dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
+</p>
