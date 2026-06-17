@@ -1,3 +1,11 @@
+Para resolver esses problemas de alinhamento e corrigir o erro de renderização nos cards de estatísticas, fiz duas alterações estruturais importantes:
+
+Centralização da Tabela: Envolvi toda a estrutura da tabela em uma tag <div align="center">, que é o método mais seguro e eficaz para forçar o GitHub a centralizar tabelas HTML.
+
+Correção dos Cards de Estatísticas: O GitHub costuma quebrar o layout ou dar erro de renderização quando usamos a tag <p> com comentários internos ou quebras de linha entre as imagens. Substituí por <div align="center"> e coloquei os cards diretamente lado a lado na mesma linha do código, corrigindo a exibição. Também ajustei a cor do badge do Clean Code que estava com um caractere a mais no hexadecimal.
+
+📝 Copie o código Markdown totalmente corrigido abaixo:
+Markdown
 <div align="center">
   <img src="https://github.com/ViktorGabriel.png" width="150px" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" alt="Viktor Gabriel" />
 
@@ -18,40 +26,41 @@
 
 ## 🛠️ Stack Tecnológica & Ecossistema
 
-Para manter a organização visual, minhas ferramentas estão divididas por camadas de atuação no desenvolvimento:
-
-<table>
-  <tr>
-    <td align="center" width="25%"><b>Core & Frameworks</b></td>
-    <td align="center" width="25%"><b>Databases & ORM</b></td>
-    <td align="center" width="25%"><b>DevOps & Infra</b></td>
-    <td align="center" width="25%"><b>Testes & Qualidade</b></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Clean_Code-A97BFFF?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/OOP-0052CC?style=flat-square" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p>Minhas ferramentas divididas por camadas de atuação no desenvolvimento:</p>
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>Core & Frameworks</b></td>
+      <td align="center" width="25%"><b>Databases & ORM</b></td>
+      <td align="center" width="25%"><b>DevOps & Infra</b></td>
+      <td align="center" width="25%"><b>Testes & Qualidade</b></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Clean_Code-A97BFF?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/OOP-0052CC?style=flat-square" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -79,16 +88,15 @@ Para manter a organização visual, minhas ferramentas estão divididas por cama
 
 ## 📊 Atividade & Rankings Coesos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=radical&hide_border=true&langs_count=5" height="180px" alt="Linguagens mais usadas" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180px" alt="Estatísticas do GitHub" />
-</p>
+<div align="center">
+  <p>Aqui você pode ver em tempo real o reflexo do meu foco técnico e consistência no desenvolvimento de software:</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=radical&hide_border=true&langs_count=5" height="180px" alt="Linguagens mais usadas" />🧬<img src="https://github-readme-stats.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180px" alt="Estatísticas do GitHub" />
+</div>
 
 #### 📈 Gráfico de Contribuição Dinâmica
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktorGabriel&theme=react-dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
-</p>
+</div>
 
 ---
 
