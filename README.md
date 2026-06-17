@@ -1,54 +1,65 @@
 <div align="center">
-  <img src="https://github.com/ViktorGabriel.png" width="150px" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" alt="Viktor Gabriel" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f242c&height=200&section=header&text=Viktor%20Gabriel&fontSize=60&fontColor=7AA2F7&animation=typing" width="100%" alt="Banner Viktor Gabriel" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&height=90&lines=Ol%C3%A1%2C+eu+sou+o+Viktor+Gabriel!+%F0%9F%91%8B;Desenvolvedor+Backend+%26+Fullstack;Node.js+%7C+TypeScript+%7C+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&height=70&lines=Desenvolvedor+Backend+%26+Fullstack;Estudante+de+Engenharia+de+Software;Node.js+%2B+TypeScript;Construindo+Solu%C3%A7%C3%B5es+com+Java" alt="Typing SVG" />
 
-  <p><b>Estudante de Engenharia de Software</b></p>
-  <p>Construindo APIs robustas, escaláveis e de alta performance orientadas a boas práticas de arquitetura.</p>
-
-  <a href="https://linkedin.com/in/viktor-gabriel-69928922a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gabryoliver22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <p align="center">
+    <a href="https://linkedin.com/in/viktor-gabriel-69928922a" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:gabryoliver22@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
+    </a>
+  </p>
 </div>
+
+---
+
+## 📖 Sobre Mim
+
+Olá! Sou o **Viktor Gabriel**, graduando em Engenharia de Software com foco em arquitetura, infraestrutura e desenvolvimento do ecossistema Backend. Minha paixão é traduzir requisitos complexos de negócio em linhas de código resilientes, seguras e altamente performáticas.
+
+* 🧠 **Filosofia de Desenvolvimento:** Defensor fervoroso de padrões de projeto robustos, escrita de código limpo (*Clean Code*) e implementação de estruturas baseadas em *Clean Architecture* e DDD.
+* ⚡ **Foco Técnico:** Construção de microsserviços estruturados, APIs RESTful modernas, pipelines eficientes de CI/CD e gerenciamento otimizado de bancos de dados relacionais e distribuídos.
+* ⚙️ **Cultura de Qualidade:** Desenvolvimento orientado a testes exaustivos (unitários e de integração) para assegurar a confiabilidade e escalabilidade contínua das aplicações.
 
 ---
 
 ## 🛠️ Stack Tecnológica & Ecossistema
 
 <div align="center">
-  <p>Minhas ferramentas divididas por camadas de atuação no desenvolvimento:</p>
-  <table>
+  <p>Minhas ferramentas integradas ao ambiente de desenvolvimento:</p>
+  
+  <table border="0">
     <tr>
-      <td align="center" width="25%"><b>Core & Frameworks</b></td>
-      <td align="center" width="25%"><b>Databases & ORM</b></td>
-      <td align="center" width="25%"><b>DevOps & Infra</b></td>
-      <td align="center" width="25%"><b>Testes & Qualidade</b></td>
+      <td align="center" width="25%" style="border: none;"><b>Core & Frameworks</b></td>
+      <td align="center" width="25%" style="border: none;"><b>Databases & ORM</b></td>
+      <td align="center" width="25%" style="border: none;"><b>DevOps & Infra</b></td>
+      <td align="center" width="25%" style="border: none;"><b>Testes & Qualidade</b></td>
     </tr>
     <tr>
-      <td align="center" valign="top">
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <td align="center" valign="top" style="border: none;">
+        <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js&logoColor=6DA55F" /><br/>
+        <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=007ACC" /><br/>
+        <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /><br/>
+        <img src="https://img.shields.io/badge/Express-121212?style=for-the-badge&logo=express&logoColor=ffffff" /><br/>
+        <img src="https://img.shields.io/badge/NestJS-121212?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
       </td>
-      <td align="center" valign="top">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+      <td align="center" valign="top" style="border: none;">
+        <img src="https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=316192" /><br/>
+        <img src="https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=47A248" /><br/>
+        <img src="https://img.shields.io/badge/Prisma-121212?style=for-the-badge&logo=prisma&logoColor=ffffff" />
       </td>
-      <td align="center" valign="top">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <td align="center" valign="top" style="border: none;">
+        <img src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=2496ED" /><br/>
+        <img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=F05032" /><br/>
+        <img src="https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=FCC624" />
       </td>
-      <td align="center" valign="top">
-        <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Clean_Code-A97BFF?style=for-the-badge" /><br/>
-        <img src="https://img.shields.io/badge/OOP-0052CC?style=for-the-badge" />
+      <td align="center" valign="top" style="border: none;">
+        <img src="https://img.shields.io/badge/Jest-121212?style=for-the-badge&logo=jest&logoColor=C21325" /><br/>
+        <img src="https://img.shields.io/badge/Clean_Code-121212?style=for-the-badge&logo=shippable&logoColor=A97BFF" /><br/>
+        <img src="https://img.shields.io/badge/OOP-121212?style=for-the-badge&logo=probot&logoColor=0052CC" />
       </td>
     </tr>
   </table>
@@ -78,18 +89,18 @@
 
 ---
 
-## 📊 Atividade & Rankings Coesos
+## 📊 Atividade & Rankings Stealth
 
 <div align="center">
-  <p>Aqui você pode ver em tempo real o reflexo do meu foco técnico e consistência no desenvolvimento de software:</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=radical&hide_border=true&langs_count=5" height="180px" alt="Linguagens mais usadas" />
+  <p>Análise de métricas, consistência de commits e ecossistema de linguagens:</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="180px" alt="Linguagens mais usadas" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=radical&hide_border=true" height="180px" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=tokyonight&hide_border=true" height="180px" alt="Estatísticas do GitHub" />
 </div>
 
 #### 📈 Gráfico de Contribuição Dinâmica
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktorGabriel&theme=react-dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktorGabriel&theme=github-dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
 </div>
 
 ---
