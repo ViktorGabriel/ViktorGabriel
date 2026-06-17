@@ -1,11 +1,3 @@
-Para resolver esses problemas de alinhamento e corrigir o erro de renderização nos cards de estatísticas, fiz duas alterações estruturais importantes:
-
-Centralização da Tabela: Envolvi toda a estrutura da tabela em uma tag <div align="center">, que é o método mais seguro e eficaz para forçar o GitHub a centralizar tabelas HTML.
-
-Correção dos Cards de Estatísticas: O GitHub costuma quebrar o layout ou dar erro de renderização quando usamos a tag <p> com comentários internos ou quebras de linha entre as imagens. Substituí por <div align="center"> e coloquei os cards diretamente lado a lado na mesma linha do código, corrigindo a exibição. Também ajustei a cor do badge do Clean Code que estava com um caractere a mais no hexadecimal.
-
-📝 Copie o código Markdown totalmente corrigido abaixo:
-Markdown
 <div align="center">
   <img src="https://github.com/ViktorGabriel.png" width="150px" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" alt="Viktor Gabriel" />
 
