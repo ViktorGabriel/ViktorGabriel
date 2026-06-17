@@ -82,7 +82,9 @@
 
 <div align="center">
   <p>Aqui você pode ver em tempo real o reflexo do meu foco técnico e consistência no desenvolvimento de software:</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=radical&hide_border=true&langs_count=5" height="180px" alt="Linguagens mais usadas" />🧬<img src="https://github-readme-stats.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180px" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=radical&hide_border=true&langs_count=5" height="180px" alt="Linguagens mais usadas" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=radical&hide_border=true" height="180px" alt="Estatísticas do GitHub" />
 </div>
 
 #### 📈 Gráfico de Contribuição Dinâmica
