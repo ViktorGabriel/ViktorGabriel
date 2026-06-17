@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=90&lines=Ol%C3%A1%2C+eu+sou+o+Viktor+Gabriel!+%F0%9F%91%8B;Desenvolvedor+Backend+%26+Fullstack;Focado+no+Ecossistema+Node.js+%2B+TypeScript" alt="Typing SVG" />
+  <img src="https://github.com/ViktorGabriel.png" width="150px" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" alt="Viktor Gabriel" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&height=90&lines=Ol%C3%A1%2C+eu+sou+o+Viktor+Gabriel!+%F0%9F%91%8B;Desenvolvedor+Backend+%26+Fullstack;Node.js+%7C+TypeScript+%7C+Java" alt="Typing SVG" />
 
   <p><b>Estudante de Engenharia de Software</b></p>
   <p>Construindo APIs robustas, escaláveis e de alta performance orientadas a boas práticas de arquitetura.</p>
@@ -29,6 +31,7 @@ Para manter a organização visual, minhas ferramentas estão divididas por cama
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
     </td>
@@ -86,3 +89,10 @@ Para manter a organização visual, minhas ferramentas estão divididas por cama
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktorGabriel&theme=react-dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
 </p>
+
+---
+
+<div align="center">
+  <p><i>"A melhor forma de prever o futuro é construí-lo através de código limpo e bem estruturado."</i></p>
+  <sub>Montado com ❤️ e focado em entregar soluções de impacto.</sub>
+</div>
