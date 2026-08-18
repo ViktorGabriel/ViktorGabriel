@@ -93,14 +93,14 @@ Olá! Sou o **Viktor Gabriel**, graduando em Engenharia de Software com foco em 
 
 <div align="center">
   <p>Análise de métricas, consistência de commits e ecossistema de linguagens:</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="180px" alt="Linguagens mais usadas" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="180px" alt="Linguagens mais usadas" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=tokyonight&hide_border=true" height="180px" alt="Estatísticas do GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=tokyonight&hide_border=true" height="180px" alt="Estatísticas do GitHub" />
 </div>
 
 #### 📈 Gráfico de Contribuição Dinâmica
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktorGabriel&theme=github-dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktorGabriel&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
 </div>
 
 ---
