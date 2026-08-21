@@ -208,11 +208,11 @@ I apply **Clean Architecture**, **SOLID principles**, **Design Patterns**, and *
 
 <div align="center">
   <p>Métricas de desenvolvimento contínuo, volume de contribuições e ecossistema de linguagens:</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175px" alt="Estatísticas do GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=tokyonight&hide_border=true" height="175px" alt="Estatísticas do GitHub" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViktorGabriel&theme=tokyonight&hide_border=true" height="175px" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=ViktorGabriel&theme=tokyonight&hide_border=true" height="175px" alt="GitHub Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165px" alt="Linguagens mais usadas" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165px" alt="Linguagens mais usadas" />
 </div>
 
 #### 📈 Histórico de Atividade
