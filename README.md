@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f242c&height=200&section=header&text=Viktor%20Gabriel&fontSize=60&fontColor=7AA2F7&animation=typing" width="100%" alt="Banner Viktor Gabriel" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&height=70&lines=Desenvolvedor+Backend+%26+Fullstack;Estudante+de+Engenharia+de+Software;Node.js+%2B+TypeScript;Construindo+Solu%C3%A7%C3%B5es+com+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&height=70&lines=Desenvolvedor+Backend+%26+Fullstack;Estudante+de+Engenharia+de+Software;Node.js+%2B+TypeScript+%7C+Java;Construindo+Aplica%C3%A7%C3%B5es+Escal%C3%A1veis+%26+Resilientes" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/viktor-gabriel-69928922a" target="_blank">
@@ -26,26 +26,16 @@
 <summary><b>🇧🇷 Português</b></summary>
 <br/>
 
-Engenheiro de Software em formação (6º período) com experiência prática em monitoramento crítico, mitigação de incidentes e troubleshooting de processos na **Sitran**. Minha atuação técnica é direcionada para a construção de **sistemas de backend distribuídos, escaláveis e com foco obsessivo em integridade de dados e resiliência**.
+Engenheiro de Software em formação (6º período) com experiência prática em monitoramento crítico, mitigação de incidentes e troubleshooting de processos na **Sitran**. Minha atuação técnica é direcionada para a construção de **sistemas de backend distribuídos, escaláveis e com foco obsessivo em integridade de dados, resiliência e performance**.
 
-Aplico rigorosamente **Clean Architecture**, **SOLID**, **Design Patterns** e **Testes Automatizados (TDD/Unit/Integration)** para garantir que as regras de negócio sejam desacopladas, auditáveis e preparadas para ambientes de alta disponibilidade — requisitos fundamentais para o ecossistema financeiro e de missão crítica.
+Aplico rigorosamente **Clean Architecture**, **SOLID**, **Design Patterns (GoF)** e **Testes Automatizados (TDD/Unit/Integration)** para garantir que as regras de negócio sejam desacopladas, auditáveis e preparadas para ambientes de alta disponibilidade — requisitos fundamentais para o ecossistema financeiro e de missão crítica.
 
 ---
 
 ### ⚡ O que estou construindo & Foco Atual
-* 📊 **Personal Finance & Crypto Analytics Engine:** Plataforma fullstack orientada a eventos e processamento de dados financeiros/criptoativos em tempo real, utilizando `Node.js`, `TypeScript`, `Prisma ORM`, `Docker` e integrações resilientes com APIs de cotação de mercado.
+* 📊 **Personal Finance & Crypto Analytics Engine:** Plataforma fullstack orientada a processamento de fluxos financeiros e cotações de criptoativos em tempo real, utilizando `Node.js`, `TypeScript`, `Prisma ORM`, `Docker` e integrações resilientes com APIs externas.
 * 🏎️ **Domain-Driven Game Engine Simulator:** Simulador backend modular focado na aplicação estrita de POO avançada, tipagem forte e padrões comportamentais/criacionais (**Strategy** e **Factory**) para resolução de mecânicas desacopladas.
-* 🔬 **Estudos Contínuos:** Arquiteturas orientadas a eventos (EDA), concorrência, idempotência transacional e microsserviços em `Java / Spring Boot` e `Node.js`.
-
----
-
-### 🛠️ Engenharia & Especialidades Técnicas
-
-| Domínio | Tecnologias & Ferramentas |
-| :--- | :--- |
-| **Backend Core** | `Node.js` • `TypeScript` • `Java` • `Python` • `Express` • `NestJS` |
-| **Dados & Infraestrutura** | `PostgreSQL` • `MongoDB` • `Prisma ORM` • `Docker` • `Linux` • `Git / GitHub Actions` |
-| **Padrões & Qualidade** | `Clean Architecture` • `SOLID` • `Design Patterns (GoF)` • `Jest` • `REST APIs` • `CI/CD` |
+* 🔬 **Estudos Contínuos:** Arquiteturas orientadas a eventos (EDA), concorrência, idempotência transacional, mensageria e microsserviços em ecossistemas `Node.js/TypeScript` e `Java / Spring Boot`.
 
 </details>
 
@@ -62,60 +52,170 @@ I apply **Clean Architecture**, **SOLID principles**, **Design Patterns**, and *
 ### ⚡ What I'm Building & Current Focus
 * 📊 **Personal Finance & Crypto Analytics Engine:** Fullstack data-driven platform for tracking personal finances and real-time crypto market data, powered by `Node.js`, `TypeScript`, `Prisma ORM`, `Docker`, and resilient external API integrations.
 * 🏎️ **Domain-Driven Logic Simulator:** Backend simulation engine showcasing advanced OOP architectures, strict typing, and Design Patterns (**Strategy**, **Factory**) for decoupled domain behaviors.
-* 🔬 **Current Research:** Event-Driven Architecture (EDA), transactional idempotency, distributed systems resilience, and enterprise backend solutions using `Java` and `Node.js/TypeScript`.
-
----
-
-### 🛠️ Engineering Stack & Core Competencies
-
-| Domain | Technologies & Tooling |
-| :--- | :--- |
-| **Backend Core** | `Node.js` • `TypeScript` • `Java` • `Python` • `Express` • `NestJS` |
-| **Data & Infrastructure** | `PostgreSQL` • `MongoDB` • `Prisma ORM` • `Docker` • `Linux` • `Git / CI/CD` |
-| **Architecture & Quality** | `Clean Architecture` • `SOLID` • `Design Patterns` • `Jest` • `RESTful APIs` • `TDD Mindset` |
+* 🔬 **Current Research:** Event-Driven Architecture (EDA), transactional idempotency, distributed systems resilience, and enterprise backend solutions using `Node.js/TypeScript` and `Java`.
 
 </details>
 
 ---
 
+## 🛠️ Engenharia & Especialidades Técnicas
+
+<div align="center">
+
+### 💻 Linguagens & Core
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+</p>
+
+### 🗄️ Bancos de Dados & ORM
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+</p>
+
+### 🚢 Infraestrutura, DevOps & Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
+</p>
+
+### 📐 Padrões, Qualidade & Testes
+<p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/SOLID-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="SOLID" />
+  <img src="https://img.shields.io/badge/Design_Patterns-555555?style=for-the-badge&logo=diagram&logoColor=white" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
+
+</div>
+
+---
+
 ## 🚀 Projetos em Destaque • Featured Projects
 
-#### 📊 1. Dashboard de Finanças & Criptomoedas (`Personal Finance & Crypto Engine`)
-> Aplicação fullstack para gestão financeira avançada e rastreamento de ativos cripto com dados em tempo real.
-* **Destaques de Engenharia:** Integração com APIs externas de câmbio/cripto com tratamento de resiliência, modelagem relacional via Prisma ORM, conteinerização com Docker e dashboard interativo de fluxos de caixa.
-* **Tecnologias:** `Node.js` | `TypeScript` | `Prisma ORM` | `PostgreSQL` | `Docker` | `REST APIs`
-* 📦 [Acessar Repositório](https://github.com/ViktorGabriel/dashboard-financeiro)
-
-#### 🏎️ 2. Simulador de Motor de Jogo Backend (`Domain-Driven Game Engine`)
-> Motor de simulação de corridas estilo Mario Kart executado integralmente no backend via CLI interativo.
-* **Destaques de Engenharia:** Arquitetura orientada a objetos (POO pura), tipagem estrita em TypeScript, aplicação prática dos padrões comportamentais e criacionais **Strategy** (cálculo dinâmico de atributos/pistas) e **Factory**.
-* **Tecnologias:** `Node.js` | `TypeScript` | `Design Patterns (Strategy & Factory)` | `OOP`
-* 📦 [Acessar Repositório](https://github.com/ViktorGabriel/Projeto-Kart-NodeJs-BackEnd)
-
-#### 🎯 3. Gerenciador de Tarefas Corporativo (`Task Manager API`)
-> API REST completa para gerenciamento seguro de fluxos de trabalho e organização transacional de estados.
-* **Destaques de Engenharia:** Autenticação JWT, controle de permissões de acesso (RBAC), paginação de resultados e arquitetura em camadas (*Clean Architecture*).
-* **Tecnologias:** `Node.js` | `TypeScript` | `Express` | `Prisma ORM` | `PostgreSQL` | `Jest`
-* 📦 [Acessar Repositório](https://github.com/ViktorGabriel/Gerenciador-de-tarefas-api)
-
-#### 🔗 4. Encurtador de URLs de Alta Performance
-> Microserviço focado em encurtamento dinâmico de links com geração de hashes únicos e rastreamento de métricas.
-* **Destaques de Engenharia:** Algoritmo customizado para geração de caminhos curtos únicos, tratamento de colisões de hash e estrutura preparada para cache em memória.
-* **Tecnologias:** `Node.js` | `TypeScript` | `Express/Fastify` | `MongoDB/PostgreSQL` | `Docker`
-* 📦 [Acessar Repositório](https://github.com/ViktorGabriel/Encurtador-de-URL-NodeJS-Typescript-MongoDB)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/ViktorGabriel/dashboard-financeiro">Dashboard de Finanças & Criptomoedas</a></h3>
+      <p><b>Plataforma Fullstack de Gestão Financeira e Criptoativos</b></p>
+      <p>Sistema analítico para controle de despesas, receitas e cotações de criptoativos em tempo real, focado em alta disponibilidade, persistência estruturada e integridade transacional.</p>
+      <div>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" />
+      </div>
+      <br/>
+      <a href="https://github.com/ViktorGabriel/dashboard-financeiro"><b>🔗 Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏎️ <a href="https://github.com/ViktorGabriel/Projeto-Kart-NodeJs-BackEnd">Domain-Driven Game Engine Simulator</a></h3>
+      <p><b>Simulador de Motor de Jogo com POO & Design Patterns</b></p>
+      <p>Motor de simulação de corridas estilo Mario Kart executado via CLI, estruturado com foco estrito em Programação Orientada a Objetos e aplicação prática dos padrões <i>Strategy</i> e <i>Factory</i>.</p>
+      <div>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Design_Patterns-555555?style=for-the-badge&logo=diagram&logoColor=white" height="25" />
+      </div>
+      <br/>
+      <a href="https://github.com/ViktorGabriel/Projeto-Kart-NodeJs-BackEnd"><b>🔗 Ver Repositório →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 <a href="https://github.com/ViktorGabriel/Gerenciador-de-tarefas-api">Gerenciador de Tarefas Corporativo API</a></h3>
+      <p><b>API RESTful com Clean Architecture & Autenticação</b></p>
+      <p>Serviço backend para gerenciamento transacional de fluxos de tarefas com autenticação segura JWT, controle de permissões por nível de acesso (RBAC), paginação e suíte de testes automatizados.</p>
+      <div>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="25" />
+      </div>
+      <br/>
+      <a href="https://github.com/ViktorGabriel/Gerenciador-de-tarefas-api"><b>🔗 Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/ViktorGabriel/Encurtador-de-URL-NodeJS-Typescript-MongoDB">Encurtador de URLs de Alta Performance</a></h3>
+      <p><b>Microsserviço Escalável de Redirecionamento & Hashes</b></p>
+      <p>Microsserviço especializado na criação e resolução ultra-rápida de URLs encurtadas, com algoritmos de hashing único, resolução de colisões e persistência orientada a documentos via MongoDB.</p>
+      <div>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" />
+      </div>
+      <br/>
+      <a href="https://github.com/ViktorGabriel/Encurtador-de-URL-NodeJS-Typescript-MongoDB"><b>🔗 Ver Repositório →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚽ <a href="https://github.com/ViktorGabriel/API-Champions-League">UEFA Champions League API</a></h3>
+      <p><b>API RESTful para Consulta & Gestão de Dados Desportivos</b></p>
+      <p>API estruturada para consulta padronizada de clubes, atletas e dados históricos da competição europeia, implementando paginação, filtros avançados e arquitetura modular.</p>
+      <div>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" height="25" />
+      </div>
+      <br/>
+      <a href="https://github.com/ViktorGabriel/API-Champions-League"><b>🔗 Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/ViktorGabriel/collections-java-api-2023">Java Collections & Estrutura de Dados</a></h3>
+      <p><b>Implementação Prática de Estruturas & POO Avançada</b></p>
+      <p>Repositório de engenharia dedicado ao domínio de Collections (List, Set, Map), Generics, algoritmos de ordenação/busca e aplicação consistente de boas práticas em Java.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Data_Structures-4A154B?style=for-the-badge&logo=diagram&logoColor=white" height="25" />
+      </div>
+      <br/>
+      <a href="https://github.com/ViktorGabriel/collections-java-api-2023"><b>🔗 Ver Repositório →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 Atividade & Métricas • GitHub Analytics
 
 <div align="center">
-  <p>Análise de métricas, consistência de commits e ecossistema de linguagens:</p>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="180px" alt="Linguagens mais usadas" />
+  <p>Métricas de desenvolvimento contínuo, volume de contribuições e ecossistema de linguagens:</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175px" alt="Estatísticas do GitHub" />
   &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=tokyonight&hide_border=true" height="180px" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViktorGabriel&theme=tokyonight&hide_border=true" height="175px" alt="GitHub Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165px" alt="Linguagens mais usadas" />
 </div>
 
-#### 📈 Gráfico de Contribuição Dinâmica
+#### 📈 Histórico de Atividade
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktorGabriel&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
 </div>
