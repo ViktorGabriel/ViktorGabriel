@@ -131,7 +131,7 @@ I apply **Clean Architecture**, **SOLID principles**, **Design Patterns**, and *
       <a href="https://github.com/ViktorGabriel/Fila-Inteligente-Para-Cozinha"><b>🔗 Ver Repositório →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/ViktorGabriel/dashboard-rastreador-de-cargas">Powerbuilding & Workout Tracker AI</a></h3>
+      <h3>⚡ <a href="https://github.com/ViktorGabriel/iron-metrics-ai">Powerbuilding & Workout Tracker AI</a></h3>
       <p><b>Analytics de Treino & Fadiga com Google Gemini Flash</b></p>
       <p>Dashboard de alta performance em Next.js 16 e React 19 com extração de dados não-estruturados via IA generativa (@google/genai), Drizzle ORM, fórmulas científicas de 1RM/Fadiga e suíte de testes com Vitest.</p>
       <div>
@@ -142,7 +142,7 @@ I apply **Clean Architecture**, **SOLID principles**, **Design Patterns**, and *
         <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" height="25" />
       </div>
       <br/>
-      <a href="https://github.com/ViktorGabriel/dashboard-rastreador-de-cargas"><b>🔗 Ver Repositório →</b></a>
+      <a href="https://github.com/ViktorGabriel/iron-metrics-ai"><b>🔗 Ver Repositório →</b></a>
     </td>
   </tr>
   <tr>
