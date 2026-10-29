@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f242c&height=200&section=header&text=Viktor%20Gabriel&fontSize=60&fontColor=7AA2F7&animation=typing" width="100%" alt="Banner Viktor Gabriel" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&height=70&lines=Desenvolvedor+Backend+%26+Fullstack;Estudante+de+Engenharia+de+Software;Node.js+%2B+TypeScript+%7C+Java+em+Evolu%C3%A7%C3%A3o;Construindo+Aplica%C3%A7%C3%B5es+Escal%C3%A1veis+%26+Resilientes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&height=70&lines=Desenvolvedor+Backend+%26+Software+Engineer;Node.js+%2B+TypeScript+%7C+Java+%7C+Python;Clean+Architecture+%26+Sistemas+Escal%C3%A1veis;Construindo+Solu%C3%A7%C3%B5es+Robustas+%26+Agentes+com+IA" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/viktor-gabriel-69928922a" target="_blank">
@@ -33,6 +33,7 @@ Aplico rigorosamente **Clean Architecture**, **SOLID**, **Design Patterns (GoF)*
 ---
 
 ### ⚡ O que estou construindo & Foco Atual
+* 🤖 **J.A.R.V.I.S. (Autonomous AI Agent & Tactical HUD):** Agente autônomo desktop com orquestração do Google Gemini 2.5, Function Calling nativo para execução de ferramentas técnicas, matriz preventiva de governança (Human-in-the-Loop), IPC assíncrono via WebSockets e 36 testes automatizados com `pytest`.
 * 🍳 **Fila Inteligente para Cozinha (KDS):** Sistema de despacho e priorização em tempo real com Clean Architecture, WebSockets (Socket.io), Prisma ORM e 100% dos fluxos de domínio cobertos por testes unitários via Vitest.
 * ⚡ **Powerbuilding & Load Tracker AI:** Plataforma fullstack com Next.js 16, React 19 e Google Gemini Flash para extração semântica de rotinas de treino e modelagem matemática de fadiga.
 * 📊 **Personal Finance API:** Serviço backend para controle transacional financeiro com autenticação JWT, Prisma ORM e validações defensivas.
@@ -117,6 +118,20 @@ I apply **Clean Architecture**, **SOLID principles**, **Design Patterns**, and *
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/ViktorGabriel/Jarvis">J.A.R.V.I.S. — Autonomous Agent & Tactical HUD</a></h3>
+      <p><b>Copiloto Desktop com Google Gemini 2.5, Function Calling & Governança</b></p>
+      <p>Sistema autônomo com orquestração de LLM (fallback dinâmico Flash/Pro), servidor IPC assíncrono via WebSockets, governança preventiva Human-in-the-Loop com confirmação multimodal e suíte de 36 testes automatizados com Pytest.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Google_Gemini-8E75C4?style=for-the-badge&logo=googlegemini&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" height="25" />
+      </div>
+      <br/>
+      <a href="https://github.com/ViktorGabriel/Jarvis"><b>🔗 Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🍳 <a href="https://github.com/ViktorGabriel/Fila-Inteligente-Para-Cozinha">Fila Inteligente para Cozinha (KDS)</a></h3>
       <p><b>Kitchen Display System com Clean Architecture & WebSockets</b></p>
       <p>Sistema inteligente de priorização dinâmica e despacho em tempo real para restaurantes. Arquitetura limpa desacoplada, WebSockets (Socket.io), Prisma ORM, Dockerfile de produção, CI Pipeline e 100% das regras de negócio testadas com Vitest.</p>
@@ -130,26 +145,12 @@ I apply **Clean Architecture**, **SOLID principles**, **Design Patterns**, and *
       <br/>
       <a href="https://github.com/ViktorGabriel/Fila-Inteligente-Para-Cozinha"><b>🔗 Ver Repositório →</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/ViktorGabriel/iron-metrics-ai">Powerbuilding & Workout Tracker AI</a></h3>
-      <p><b>Analytics de Treino & Fadiga com Google Gemini Flash</b></p>
-      <p>Dashboard de alta performance em Next.js 16 e React 19 com extração de dados não-estruturados via IA generativa (@google/genai), Drizzle ORM, fórmulas científicas de 1RM/Fadiga e suíte de testes com Vitest.</p>
-      <div>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25" />
-        <img src="https://img.shields.io/badge/Google_Gemini-8E75C4?style=for-the-badge&logo=googlegemini&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" height="25" />
-        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" height="25" />
-      </div>
-      <br/>
-      <a href="https://github.com/ViktorGabriel/iron-metrics-ai"><b>🔗 Ver Repositório →</b></a>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/ViktorGabriel/dashboard-financeiro">Personal Finance Dashboard API</a></h3>
       <p><b>API RESTful para Gestão de Finanças Pessoais</b></p>
-      <p>Serviço backend para controle financeiro pessoal, despesas por categoria e fluxo de caixa com autenticação stateless JWT, hashing seguro via Bcrypt e Prisma ORM.</p>
+      <p>Serviço backend para controle financeiro pessoal, despesas por categoria e fluxo de caixa com autenticação stateless JWT, hashing seguro via Bcrypt, Prisma ORM e Docker.</p>
       <div>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" />
@@ -161,17 +162,18 @@ I apply **Clean Architecture**, **SOLID principles**, **Design Patterns**, and *
       <a href="https://github.com/ViktorGabriel/dashboard-financeiro"><b>🔗 Ver Repositório →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏎️ <a href="https://github.com/ViktorGabriel/Projeto-Kart-NodeJs-BackEnd">Domain-Driven Game Engine Simulator</a></h3>
-      <p><b>Simulador de Motor de Jogo com POO & Design Patterns</b></p>
-      <p>Motor de simulação de corridas estilo Mario Kart executado via CLI, estruturado com foco estrito em Programação Orientada a Objetos e aplicação prática dos padrões <i>Strategy</i> e <i>Factory</i>.</p>
+      <h3>⚡ <a href="https://github.com/ViktorGabriel/iron-metrics-ai">Powerbuilding & Workout Tracker AI</a></h3>
+      <p><b>Analytics de Treino & Fadiga com Google Gemini Flash</b></p>
+      <p>Dashboard analítico em Next.js 16 e React 19 com extração de dados não-estruturados via IA generativa (@google/genai), Drizzle ORM, modelagem matemática de fadiga e suíte de testes com Vitest.</p>
       <div>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Design_Patterns-555555?style=for-the-badge&logo=diagram&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25" />
+        <img src="https://img.shields.io/badge/Google_Gemini-8E75C4?style=for-the-badge&logo=googlegemini&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" height="25" />
+        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" height="25" />
       </div>
       <br/>
-      <a href="https://github.com/ViktorGabriel/Projeto-Kart-NodeJs-BackEnd"><b>🔗 Ver Repositório →</b></a>
+      <a href="https://github.com/ViktorGabriel/iron-metrics-ai"><b>🔗 Ver Repositório →</b></a>
     </td>
   </tr>
   <tr>
@@ -190,17 +192,17 @@ I apply **Clean Architecture**, **SOLID principles**, **Design Patterns**, and *
       <a href="https://github.com/ViktorGabriel/Gerenciador-de-tarefas-api"><b>🔗 Ver Repositório →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 <a href="https://github.com/ViktorGabriel/Encurtador-de-URL-NodeJS-Typescript-MongoDB">Encurtador de URLs</a></h3>
-      <p><b>Serviço de Redirecionamento & Hashes com MongoDB</b></p>
-      <p>Microsserviço em TypeScript para criação e redirecionamento rápido de URLs encurtadas, validação de URLs e persistência de documentos via MongoDB / Typegoose.</p>
+      <h3>🏎️ <a href="https://github.com/ViktorGabriel/Projeto-Kart-NodeJs-BackEnd">Domain-Driven Game Engine Simulator</a></h3>
+      <p><b>Simulador de Motor de Jogo com POO & Design Patterns</b></p>
+      <p>Motor de simulação de corridas estilo Mario Kart executado via CLI, estruturado com foco estrito em Programação Orientada a Objetos e aplicação prática dos padrões <i>Strategy</i> e <i>Factory</i>.</p>
       <div>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Design_Patterns-555555?style=for-the-badge&logo=diagram&logoColor=white" height="25" />
       </div>
       <br/>
-      <a href="https://github.com/ViktorGabriel/Encurtador-de-URL-NodeJS-Typescript-MongoDB"><b>🔗 Ver Repositório →</b></a>
+      <a href="https://github.com/ViktorGabriel/Projeto-Kart-NodeJs-BackEnd"><b>🔗 Ver Repositório →</b></a>
     </td>
   </tr>
 </table>
