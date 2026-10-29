@@ -15,6 +15,10 @@
     <a href="https://github.com/ViktorGabriel" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    &nbsp;&nbsp;
+    <a href="https://huggingface.co/ViktorGabriel" target="_blank">
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    </a>
   </p>
 </div>
 
