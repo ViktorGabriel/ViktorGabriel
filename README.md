@@ -122,6 +122,20 @@ I apply **Clean Architecture**, **SOLID principles**, **Design Patterns**, and *
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🏦 <a href="https://github.com/ViktorGabriel/ledger-core-banking">Ledger Core Banking Engine</a></h3>
+      <p><b>Motor de Ledger Financeiro com Partidas Dobradas & Java 21</b></p>
+      <p>Serviço bancário corporativo com partidas dobradas (double-entry), controle de concorrência com bloqueio pessimista anti-deadlock, idempotência transacional via UUID, Flyway migrations e testes com JUnit 5 / Mockito.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="25" />
+      </div>
+      <br/>
+      <a href="https://github.com/ViktorGabriel/ledger-core-banking"><b>🔗 Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/ViktorGabriel/Jarvis">J.A.R.V.I.S. — Autonomous Agent & Tactical HUD</a></h3>
       <p><b>Copiloto Desktop com Google Gemini 2.5, Function Calling & Governança</b></p>
       <p>Sistema autônomo com orquestração de LLM (fallback dinâmico Flash/Pro), servidor IPC assíncrono via WebSockets, governança preventiva Human-in-the-Loop com confirmação multimodal e suíte de 36 testes automatizados com Pytest.</p>
