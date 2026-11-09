@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-label="Linguagens mais usadas">
+<rect x="0.5" y="0.5" width="399" height="189" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="38" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#7AA2F7">Linguagens mais usadas</text>
+<rect x="24.0" y="54" width="177.3" height="8" fill="#3178C6"/>
+<rect x="201.3" y="54" width="76.4" height="8" fill="#3776AB"/>
+<rect x="277.6" y="54" width="44.7" height="8" fill="#F1E05A"/>
+<rect x="322.3" y="54" width="21.6" height="8" fill="#ED8B00"/>
+<rect x="343.9" y="54" width="17.7" height="8" fill="#563D7C"/>
+<rect x="361.6" y="54" width="14.4" height="8" fill="#E34C26"/>
+<circle cx="29" cy="88" r="5" fill="#3178C6"/>
+<text x="40" y="92" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">TypeScript <tspan fill="#8b949e">50.4%</tspan></text>
+<circle cx="209" cy="88" r="5" fill="#3776AB"/>
+<text x="220" y="92" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Python <tspan fill="#8b949e">21.7%</tspan></text>
+<circle cx="29" cy="116" r="5" fill="#F1E05A"/>
+<text x="40" y="120" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">JavaScript <tspan fill="#8b949e">12.7%</tspan></text>
+<circle cx="209" cy="116" r="5" fill="#ED8B00"/>
+<text x="220" y="120" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Java <tspan fill="#8b949e">6.1%</tspan></text>
+<circle cx="29" cy="144" r="5" fill="#563D7C"/>
+<text x="40" y="148" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">CSS <tspan fill="#8b949e">5.0%</tspan></text>
+<circle cx="209" cy="144" r="5" fill="#E34C26"/>
+<text x="220" y="148" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">HTML <tspan fill="#8b949e">4.1%</tspan></text>
+</svg>
