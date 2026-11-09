@@ -1,24 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f242c&height=200&section=header&text=Viktor%20Gabriel&fontSize=60&fontColor=7AA2F7&animation=typing" width="100%" alt="Banner Viktor Gabriel" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f242c&height=160&section=header&text=Viktor%20Gabriel&fontSize=56&fontColor=7AA2F7" width="100%" alt="Banner Viktor Gabriel" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&height=70&lines=Desenvolvedor+Backend+%26+Engenheiro+de+Software;Java+21+%2B+Spring+Boot+3+%7C+Node.js+%2B+TypeScript+%7C+Python;Microsservi%C3%A7os+Distribu%C3%ADdos+%2B+Clean+Architecture;Confiabilidade+(SRE)+%2B+DevSecOps+%2B+Agentes+com+IA" alt="Typing SVG" />
+  <h3>Desenvolvedor Backend · Java 21 / Spring Boot 3 · Node.js / TypeScript · Python</h3>
+  <p>Sistemas transacionais, arquiteturas orientadas a eventos, DevSecOps e agentes de IA com governança.</p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/viktor-gabriel-69928922a" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:gabryoliver22@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/ViktorGabriel" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://huggingface.co/ViktorGabriel" target="_blank">
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-    </a>
+    <a href="https://linkedin.com/in/viktor-gabriel-69928922a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="mailto:gabryoliver22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    &nbsp;
+    <a href="https://huggingface.co/ViktorGabriel"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   </p>
 </div>
 
@@ -26,206 +17,102 @@
 
 ## 🎯 Sobre Mim
 
-Engenheiro de Software em formação (6º período) com experiência prática em monitoramento de sistemas críticos, mitigação de incidentes e troubleshooting de processos na **Sitran**. Minha atuação técnica é direcionada para a construção de **sistemas de backend resilientes, microsserviços distribuídos, arquiteturas orientadas a eventos e automação de confiabilidade (SRE / DevSecOps) com foco estrito em integridade transacional, concorrência e testes automatizados**.
+Estudante de Engenharia de Software (6º período), com experiência prática em **monitoramento de sistemas críticos, mitigação de incidentes e troubleshooting de processos na Sitran**. Construo **backends resilientes e microsserviços** com foco em integridade transacional (idempotência, locks pessimistas, partidas dobradas), processamento assíncrono (filas, streams, retentativas, DLQ) e segurança (JWT, rate limiting, auditoria SARIF).
 
-Aplico rigorosamente **Clean Architecture**, **SOLID**, **Design Patterns (GoF)**, **TDD**, **Testes de Integração com Testcontainers/Supertest** e **Automação Sintética E2E com Playwright**.
-
----
-
-### ⚡ O que estou construindo & Foco Atual
-* 🌐 **Ecossistema de Microsserviços Corporativos:** Orquestração distribuída integrando API Financeira em **Java 21 / Spring Boot 3**, Motor de Eventos em **Node.js / Fastify / BullMQ**, **PostgreSQL 16**, **Redis 7** e auditoria automatizada **DevSecOps (SARIF)**.
-* 🤖 **J.A.R.V.I.S. (Agente Tático Autônomo & HUD Desktop):** Sistema autônomo com orquestração do Google Gemini 2.5, execução de ferramentas técnicas via Function Calling nativo, governança preventiva Human-in-the-Loop, IPC assíncrono via WebSockets e 36 testes automatizados com `pytest`.
-* 🏦 **Motores Financeiros & Ledger Bancário:** Microsserviços transacionais em **Java 21 LTS e Spring Boot 3.3+** com partidas dobradas (*double-entry*), Spring Security JWT, **Testcontainers**, bloqueio pessimista anti-deadlock e idempotência transacional.
-* 📨 **Motor Assíncrono Orientado a Eventos:** Despacho em massa de notificações com **Fastify, Prisma, PostgreSQL e Redis BullMQ** (workers concorrentes, retentativas exponenciais e *Dead Letter Queue*).
-* 🛡️ **Agente Fintech Sentinel & CloudSec CLI:** Automação sintética E2E com **Playwright + Google Gemini 2.5 Flash** para diagnóstico de causa-raiz (RCA) e ferramenta CLI em Python para auditoria estática/dinâmica de containers e IaC.
+Meus projetos de destaque seguem o mesmo padrão: **Clean Architecture, testes automatizados, Docker Compose e CI com GitHub Actions**.
 
 ---
 
-## 🛠️ Engenharia & Especialidades Técnicas
+## 🛠️ Stack
 
-<div align="center">
-
-### 💻 Linguagens & Ecossistemas
-<p>
-  <img src="https://img.shields.io/badge/Java_21_LTS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
-  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 3" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### 🏗️ Arquitetura, Mensageria & Qualidade de Software
-<p>
-  <img src="https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/Redis_%26_BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis & BullMQ" />
-  <img src="https://img.shields.io/badge/Spring_Security_JWT-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Testcontainers" />
-  <img src="https://img.shields.io/badge/Playwright_E2E-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-</p>
-
-### 🗄️ Persistência, DevSecOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
-  <img src="https://img.shields.io/badge/Docker_&_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions_CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/DevSecOps_SARIF-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevSecOps" />
-</p>
-
-</div>
+| Categoria | Tecnologias |
+|---|---|
+| **Linguagens** | ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Mensageria & Cache** | ![Redis](https://img.shields.io/badge/Redis_(Streams_%2F_Lua)-DC382D?style=flat-square&logo=redis&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-FF4500?style=flat-square&logo=redis&logoColor=white) |
+| **Banco de Dados & ORM** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white) |
+| **DevOps & Infra** | ![Docker](https://img.shields.io/badge/Docker_%26_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git_%26_Submodules-F05032?style=flat-square&logo=git&logoColor=white) ![SARIF](https://img.shields.io/badge/DevSecOps_(SARIF)-181717?style=flat-square&logo=github&logoColor=white) |
+| **Testes & Qualidade** | ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) |
+| **Segurança & Contratos** | JWT, Bcrypt, Zod, Helmet, Rate Limiting, OpenAPI / Swagger UI |
+| **IA** | ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75C4?style=flat-square&logo=googlegemini&logoColor=white) Function Calling, Human-in-the-Loop, Hugging Face Spaces |
+| **Arquitetura** | Clean Architecture, SOLID, Design Patterns (GoF), Microsserviços, Event-Driven, Saga, Circuit Breaker, API Gateway, Double-Entry Bookkeeping, Idempotência |
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/ViktorGabriel/enterprise-microservices-ecosystem">Ecossistema de Microsserviços Corporativos</a></h3>
-      <p><b>Orquestração Distribuída, Mensageria & Auditoria DevSecOps</b></p>
-      <p>Meta-repositório orquestrador unindo API Financeira (Java 21 / Spring Boot 3), Motor de Notificações (Node.js / Fastify / BullMQ), PostgreSQL, Redis, testes E2E integrados e pipeline DevSecOps com emissão de relatórios SARIF.</p>
-      <div>
-        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/DevSecOps-181717?style=for-the-badge&logo=githubactions&logoColor=white" height="25" />
-      </div>
-      <br/>
-      <a href="https://github.com/ViktorGabriel/enterprise-microservices-ecosystem"><b>🔗 Ver Repositório →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/ViktorGabriel/Jarvis">J.A.R.V.I.S. — Agente Tático Autônomo & HUD</a></h3>
-      <p><b>Copiloto Desktop com Google Gemini 2.5, Function Calling & Governança</b></p>
-      <p>Sistema autônomo com orquestração de LLM (fallback dinâmico Flash/Pro), servidor IPC assíncrono via WebSockets, governança preventiva Human-in-the-Loop com confirmação multimodal e suíte de 36 testes automatizados com Pytest.</p>
-      <div>
-        <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Google_Gemini-8E75C4?style=for-the-badge&logo=googlegemini&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" height="25" />
-      </div>
-      <br/>
-      <a href="https://github.com/ViktorGabriel/Jarvis"><b>🔗 Ver Repositório →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏦 <a href="https://github.com/ViktorGabriel/microservico-enterprise">Motor Transacional Financeiro Enterprise</a></h3>
-      <p><b>Java 21 & Spring Boot 3 com Clean Architecture, JWT & Testcontainers</b></p>
-      <p>Microsserviço financeiro de alta confiabilidade com autenticação JWT stateless, bloqueio pessimista contra condições de corrida, chave de idempotência, migrations com Flyway e testes de integração reais com Testcontainers.</p>
-      <div>
-        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="25" />
-      </div>
-      <br/>
-      <a href="https://github.com/ViktorGabriel/microservico-enterprise"><b>🔗 Ver Repositório →</b></a>
-      &nbsp;|&nbsp;
-      <a href="https://github.com/ViktorGabriel/ledger-core-banking"><b>🔗 Ledger Partidas Dobradas →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📨 <a href="https://github.com/ViktorGabriel/event-driven-api">Motor de Notificações Orientado a Eventos</a></h3>
-      <p><b>Ingestão e Despacho Assíncrono com Fastify, Redis BullMQ & DLQ</b></p>
-      <p>Serviço distribuído para processamento assíncrono em lote com filas Redis BullMQ, workers concorrentes, retentativas com backoff exponencial, Dead Letter Queue (DLQ), Rate Limiting e trilha de auditoria no PostgreSQL.</p>
-      <div>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Redis_BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" height="25" />
-      </div>
-      <br/>
-      <a href="https://github.com/ViktorGabriel/event-driven-api"><b>🔗 Ver Repositório →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/ViktorGabriel/fintech-sentinel-agent">Agente Fintech Sentinel</a></h3>
-      <p><b>Sondas Sintéticas E2E & Diagnóstico de Causa-Raiz com Gemini IA</b></p>
-      <p>Agente autônomo de observabilidade sintética que executa jornadas financeiras críticas via Playwright, injeta cenários de caos/resiliência e diagnostica falhas em tempo real com Google Gemini 2.5 Flash.</p>
-      <div>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" />
-      </div>
-      <br/>
-      <a href="https://github.com/ViktorGabriel/fintech-sentinel-agent"><b>🔗 Ver Repositório →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔒 <a href="https://github.com/ViktorGabriel/developer-platform-cli-tool">CloudSec CLI — Auditoria DevSecOps & IaC</a></h3>
-      <p><b>Análise Estática/Dinâmica de Containers, Segredos & Relatórios SARIF</b></p>
-      <p>Ferramenta de linha de comando em Python para inspeção de segurança em Dockerfiles, detecção de segredos por entropia de Shannon no histórico Git e geração de relatórios OASIS SARIF v2.1.0 integrados ao GitHub Code Scanning.</p>
-      <div>
-        <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/DevSecOps-181717?style=for-the-badge&logo=github&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Docker_Security-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/SARIF_2.1.0-00599C?style=for-the-badge&logo=securityscorecard&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="25" />
-      </div>
-      <br/>
-      <a href="https://github.com/ViktorGabriel/developer-platform-cli-tool"><b>🔗 Ver Repositório →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍳 <a href="https://github.com/ViktorGabriel/Fila-Inteligente-Para-Cozinha">Fila Inteligente para Cozinha (KDS)</a></h3>
-      <p><b>Sistema de Gestão de Pedidos com Clean Architecture & WebSockets</b></p>
-      <p>Sistema inteligente de priorização dinâmica e despacho em tempo real para restaurantes. Arquitetura limpa desacoplada, WebSockets (Socket.io), Prisma ORM, Dockerfile de produção, CI Pipeline e 100% das regras de negócio testadas com Vitest e Supertest.</p>
-      <div>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Supertest-25A162?style=for-the-badge&logo=mocha&logoColor=white" height="25" />
-      </div>
-      <br/>
-      <a href="https://github.com/ViktorGabriel/Fila-Inteligente-Para-Cozinha"><b>🔗 Ver Repositório →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚦 <a href="https://github.com/ViktorGabriel/monitor-fluxo-viario-radares">Monitor de Fluxo Viário & Radares</a></h3>
-      <p><b>Automação Serverless de Monitoramento e Auditoria de Radares</b></p>
-      <p>Sistema de automação em Python e Playwright para auditoria periódica de telemetria em radares viários, detecção inteligente de anomalias de fluxo, integração com Google Sheets API e execução agendada via GitHub Actions.</p>
-      <div>
-        <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="25" />
-      </div>
-      <br/>
-      <a href="https://github.com/ViktorGabriel/monitor-fluxo-viario-radares"><b>🔗 Ver Repositório →</b></a>
-      &nbsp;|&nbsp;
-      <a href="https://github.com/ViktorGabriel/iron-metrics-ai"><b>🔗 Iron Metrics AI →</b></a>
-    </td>
-  </tr>
-</table>
+### 🏦 Sistemas Financeiros & Transacionais
+
+| Projeto | Stack | Diferencial técnico |
+|---|---|---|
+| 🌐 [**enterprise-microservices-ecosystem**](https://github.com/ViktorGabriel/enterprise-microservices-ecosystem) | Docker Compose, Git Submodules, GitHub Actions | Meta-repositório que orquestra API financeira (Java) e motor de eventos (Node), com E2E integrado e auditoria DevSecOps (SARIF) |
+| 🏦 [**microservico-enterprise**](https://github.com/ViktorGabriel/microservico-enterprise) | Java 21, Spring Boot 3, JPA, Flyway, PostgreSQL | Clean Architecture, JWT stateless, idempotência, bloqueio pessimista e testes de integração |
+| 📒 [**ledger-core-banking**](https://github.com/ViktorGabriel/ledger-core-banking) | Java 21, Spring Boot 3, Docker | Ledger de partidas dobradas com bloqueio pessimista e chave de idempotência |
+| 💸 [**financial-ledger-service**](https://github.com/ViktorGabriel/financial-ledger-service) | Fastify 5, Prisma 6, BullMQ, Redis, PostgreSQL, Vitest | Contabilidade imutável em `bigint`, Saga, filas assíncronas, `SELECT FOR UPDATE` e CI |
+| 💰 [**dashboard-financeiro**](https://github.com/ViktorGabriel/dashboard-financeiro) | TypeScript, Prisma, JWT, Vitest | API REST de finanças pessoais com autenticação stateless e CI automatizado |
+
+### 📨 Mensageria, Tempo Real & Alta Vazão
+
+| Projeto | Stack | Diferencial técnico |
+|---|---|---|
+| 📨 [**event-driven-api**](https://github.com/ViktorGabriel/event-driven-api) | Fastify, Prisma, PostgreSQL, Redis, BullMQ, Vitest | Workers concorrentes, retentativas com backoff exponencial, Dead Letter Queue, rate limiting e trilha de auditoria |
+| 🚦 [**fastify-edge-api-gateway**](https://github.com/ViktorGabriel/fastify-edge-api-gateway) | Fastify 5, Redis (Lua), JWT, Helmet, Vitest | Rate limiting por janela deslizante, Circuit Breaker, proxy HTTP e validação JWT |
+| 📡 [**traffic-telemetry-ingestion-service**](https://github.com/ViktorGabriel/traffic-telemetry-ingestion-service) | Fastify 5, Redis Streams, PostgreSQL particionado, WebSocket | Consumer groups, detecção de incidentes por janela deslizante e streaming |
+| 🍳 [**Fila-Inteligente-Para-Cozinha**](https://github.com/ViktorGabriel/Fila-Inteligente-Para-Cozinha) | TypeScript, Socket.io, Prisma, Vitest, Supertest | KDS em tempo real com Clean Architecture e priorização dinâmica de pedidos |
+
+### 🤖 IA, Observabilidade & DevSecOps
+
+| Projeto | Stack | Diferencial técnico |
+|---|---|---|
+| 🤖 [**J.A.R.V.I.S.**](https://github.com/ViktorGabriel/Jarvis) | Python 3.12, Gemini 2.5, WebSockets, Electron, Pytest | Agente desktop autônomo com Function Calling, fallback Flash/Pro, governança Human-in-the-Loop e IPC assíncrono |
+| 🛡️ [**fintech-sentinel-agent**](https://github.com/ViktorGabriel/fintech-sentinel-agent) | TypeScript, Playwright, Gemini 2.5 Flash, Vitest, Docker | Sondas sintéticas E2E, injeção de caos e diagnóstico de causa-raiz com IA |
+| 🔒 [**developer-platform-cli-tool**](https://github.com/ViktorGabriel/developer-platform-cli-tool) | Python 3.12, Pytest, Ruff, mypy, Docker | Auditoria de Dockerfiles e IaC, detecção de segredos por entropia e relatórios SARIF 2.1.0 |
+| 🚦 [**monitor-fluxo-viario-radares**](https://github.com/ViktorGabriel/monitor-fluxo-viario-radares) | Python, Playwright, Google Sheets API, GitHub Actions | Auditoria periódica de radares e detecção de anomalias, aplicando a experiência na Sitran |
+| ⚡ [**iron-metrics-ai**](https://github.com/ViktorGabriel/iron-metrics-ai) | Next.js 16, React 19, Gemini Flash, Drizzle ORM | Extração semântica de treinos em linguagem natural e modelagem de fadiga |
+| 🎙️ [**audio-transcriber-action-items-extractor**](https://github.com/ViktorGabriel/audio-transcriber-action-items-extractor) | Python, Hugging Face Spaces | Transcrição de áudio e extração inteligente de itens de ação |
+| 🔗 [**bot-curador-de-links**](https://github.com/ViktorGabriel/bot-curador-de-links) | Node.js, SQLite, Vitest | Bot Discord com proteção anti-SSRF e lock atômico |
+
+### 🌐 Fullstack & Fundamentos de Backend
+
+| Projeto | Stack | Diferencial técnico |
+|---|---|---|
+| 🧑‍💻 [**Portfolio-Viktor**](https://github.com/ViktorGabriel/Portfolio-Viktor) | TypeScript, Fastify, React, Vite, Zod | Monorepo fullstack com integração à GitHub API |
+| 📋 [**Gerenciador-de-tarefas-api**](https://github.com/ViktorGabriel/Gerenciador-de-tarefas-api) | TypeScript, Express, Prisma, Zod, Swagger UI | API REST em camadas com validação defensiva e documentação interativa |
+| 🛒 [**Projeto-Carrinho-Shoppe-Backend**](https://github.com/ViktorGabriel/Projeto-Carrinho-Shoppe-Backend) | TypeScript, Express | API de carrinho de compras em arquitetura em camadas |
+| 🔑 [**qrcode-password-generator**](https://github.com/ViktorGabriel/qrcode-password-generator) | TypeScript, Node.js | API REST em camadas com princípios SOLID |
+| ✂️ [**Encurtador-de-URL-NodeJS-Typescript-MongoDB**](https://github.com/ViktorGabriel/Encurtador-de-URL-NodeJS-Typescript-MongoDB) | TypeScript, Express, MongoDB, Typegoose | API de encurtamento de URLs |
+| 🏆 [**API-Champions-League**](https://github.com/ViktorGabriel/API-Champions-League) | TypeScript, Express | API REST de clubes e jogadores |
+| 🎙️ [**Gerenciador-de-podcasts**](https://github.com/ViktorGabriel/Gerenciador-de-podcasts) | TypeScript, Node.js | API de listagem e gerenciamento de podcasts |
+| 🏎️ [**Formula1-MinimalAPI**](https://github.com/ViktorGabriel/Formula1-MinimalAPI) | TypeScript, Node.js | API minimalista de dados da Fórmula 1 |
+| 🏁 [**Projeto-Kart-NodeJs-BackEnd**](https://github.com/ViktorGabriel/Projeto-Kart-NodeJs-BackEnd) | TypeScript, Node.js | Simulador de corridas em CLI com POO, Strategy e Factory |
+
+<details>
+<summary><b>🎨 Front-end & estudos (HTML, CSS, JavaScript)</b></summary>
+<br/>
+
+| Projeto | Descrição |
+|---|---|
+| [PROJETO-LUTA-2.0](https://github.com/ViktorGabriel/PROJETO-LUTA-2.0) · [projeto-luta-javascript](https://github.com/ViktorGabriel/projeto-luta-javascript) | RPG Battle Arena por turnos em ES6+ com Web Audio API nativa |
+| [app-previsao-do-tempo](https://github.com/ViktorGabriel/app-previsao-do-tempo) | Previsão do tempo em tempo real com OpenWeatherMap |
+| [biblioteca](https://github.com/ViktorGabriel/biblioteca) | Gerenciador de leituras e estante virtual |
+| [Desafios-Estagio-Logica-de-Programacao](https://github.com/ViktorGabriel/Desafios-Estagio-Logica-de-Programacao) | Plataforma de treino de lógica para estágios |
+| [relogio-e-cronometro](https://github.com/ViktorGabriel/relogio-e-cronometro) · [Contador-Simples](https://github.com/ViktorGabriel/Contador-Simples) · [Lista-de-tarefas-](https://github.com/ViktorGabriel/Lista-de-tarefas-) | Exercícios de DOM e eventos |
+| [My-First-Copilot](https://github.com/ViktorGabriel/My-First-Copilot) | Prompts customizados para assistentes de IA |
+
+</details>
 
 ---
 
-## 📊 Atividade & Métricas • GitHub Analytics
+## 📊 Métricas
 
 <div align="center">
-  <p>Métricas de desenvolvimento contínuo, volume de contribuições e ecossistema de linguagens:</p>
-  <img src="https://github-stats-extended.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=tokyonight&hide_border=true" height="175px" alt="Estatísticas do GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=ViktorGabriel&theme=tokyonight&hide_border=true" height="175px" alt="GitHub Streak Stats" />
-  <br/><br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165px" alt="Linguagens mais usadas" />
-</div>
-
-#### 📈 Histórico de Atividade
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktorGabriel&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"A melhor forma de prever o futuro é construí-lo através de código limpo, resiliente e bem estruturado."</i></p>
-  <sub>Engenharia de Software focada em impacto, escalabilidade e qualidade contínua.</sub>
+  <sub>Backend confiável, testado e observável.</sub>
 </div>
