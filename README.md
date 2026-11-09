@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f242c&height=160&section=header&text=Viktor%20Gabriel&fontSize=56&fontColor=7AA2F7" width="100%" alt="Banner Viktor Gabriel" />
 
   <h3>Desenvolvedor Backend · Java 21 / Spring Boot 3 · Node.js / TypeScript · Python</h3>
@@ -106,9 +106,9 @@ Meus projetos de destaque seguem o mesmo padrão: **Clean Architecture, testes a
 ## 📊 Métricas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  <img src="assets/stats.svg" height="165" alt="Estatísticas do GitHub" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Linguagens mais usadas" />
+  <img src="assets/languages.svg" height="165" alt="Linguagens mais usadas" />
 </div>
 
 ---
