@@ -106,13 +106,21 @@ Meus projetos de destaque seguem o mesmo padrão: **Clean Architecture, testes a
 ## 📊 Métricas
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=tokyonight&hide_border=true" height="175px" alt="Estatísticas do GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=ViktorGabriel&theme=tokyonight&hide_border=true" height="175px" alt="GitHub Streak Stats" />
-  <br/><br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165px" alt="Linguagens mais usadas" />
-  <br/><br/>
-  <img src="https://ghchart.rshah.org/7AA2F7/ViktorGabriel" width="85%" alt="Gráfico de contribuições" />
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://github-stats-extended.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="Estatísticas do GitHub" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="195" alt="Linguagens mais usadas" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="middle">
+        <img src="https://streak-stats.demolab.com?user=ViktorGabriel&theme=tokyonight&hide_border=true&stroke=30363d&fire=7AA2F7" height="195" alt="GitHub Streak Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
