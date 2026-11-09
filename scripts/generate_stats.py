@@ -20,6 +20,7 @@ def api(path):
 
 
 def main():
+    os.makedirs(OUT, exist_ok=True)
     user = api(f"/users/{USER}")
     repos, page = [], 1
     while True:
