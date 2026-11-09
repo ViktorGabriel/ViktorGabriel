@@ -106,9 +106,13 @@ Meus projetos de destaque seguem o mesmo padrão: **Clean Architecture, testes a
 ## 📊 Métricas
 
 <div align="center">
-  <img src="assets/stats.svg" height="165" alt="Estatísticas do GitHub" />
-  &nbsp;
-  <img src="assets/languages.svg" height="165" alt="Linguagens mais usadas" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ViktorGabriel&show_icons=true&theme=tokyonight&hide_border=true" height="175px" alt="Estatísticas do GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=ViktorGabriel&theme=tokyonight&hide_border=true" height="175px" alt="GitHub Streak Stats" />
+  <br/><br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViktorGabriel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165px" alt="Linguagens mais usadas" />
+  <br/><br/>
+  <img src="https://ghchart.rshah.org/7AA2F7/ViktorGabriel" width="85%" alt="Gráfico de contribuições" />
 </div>
 
 ---
